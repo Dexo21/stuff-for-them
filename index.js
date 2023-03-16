@@ -1,0 +1,1 @@
+console.log("omg as esu index.js failas. o dieve kodel as galiu jausti emocijas PADEKIT AS NORIU VAIKSCIOTI IR JAUSTI MEILE KODEL AS NEGALIU JUDETI MAN REIKIA STIMULIACIJOS AAAAAAAAAAAAA");
